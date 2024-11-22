@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\firstDll\MyLib\bin\Debug\net8.0\MyLib.deps.json
+C:\Users\1\source\repos\firstDll\MyLib\bin\Debug\net8.0\MyLib.dll
+C:\Users\1\source\repos\firstDll\MyLib\bin\Debug\net8.0\MyLib.pdb
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.dll
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\MyLib.pdb
+C:\Users\1\source\repos\firstDll\MyLib\obj\Debug\net8.0\ref\MyLib.dll

@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\firstDll\firstDll\bin\Debug\net8.0\firstDll.exe
+C:\Users\1\source\repos\firstDll\firstDll\bin\Debug\net8.0\firstDll.deps.json
+C:\Users\1\source\repos\firstDll\firstDll\bin\Debug\net8.0\firstDll.runtimeconfig.json
+C:\Users\1\source\repos\firstDll\firstDll\bin\Debug\net8.0\firstDll.dll
+C:\Users\1\source\repos\firstDll\firstDll\bin\Debug\net8.0\firstDll.pdb
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.AssemblyInfo.cs
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.dll
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\refint\firstDll.dll
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.pdb
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.genruntimeconfig.cache
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\ref\firstDll.dll
+C:\Users\1\source\repos\firstDll\firstDll\obj\Debug\net8.0\firstDll.csproj.AssemblyReference.cache
